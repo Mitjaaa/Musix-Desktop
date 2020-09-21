@@ -1,1 +1,1 @@
-# Music-Player
+# Musix-Desktop
